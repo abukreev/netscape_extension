@@ -4,6 +4,7 @@
   "name": "Netscape Animated Logo",
   "description": "Description",
   "version": "1.0",
+  "icons": { "128": "images/main-logo.png" },
   "background": {
     "page": "background.html"
   },
